@@ -107,10 +107,10 @@ Ofrezco servicios profesionales de personalización:
 
 ## 📞 Contacto para Servicios
 ### Desarrollo y Personalización
-- 📧 **Email:** tu@email.com
+- 📧 **Email:** Ignaciobarberis@oputlook.com
 - 💼 **LinkedIn:** /in/ignacio-barberis
 - 🐱 **GitHub:** @IgnacioBarberis
-- 🌐 **Portfolio:** tu-portfolio.com
+
 
 ### Presupuestos
 - ⚡ **Respuesta rápida:** Menos de 24 horas
