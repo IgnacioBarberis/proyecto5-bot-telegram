@@ -113,4 +113,14 @@ Ofrezco servicios profesionales de personalización:
 - 🌐 **Portfolio:** tu-portfolio.com
 
 ### Presupuestos
-- ⚡ **Resp
+- ⚡ **Respuesta rápida:** Menos de 24 horas
+- 💰 **Presupuesto gratis:** Sin compromiso
+- 🚀 **Entrega rápida:** 3-7 días promedio
+- 🔄 **Revisiones incluidas:** Hasta satisfacción total
+
+## 📄 Licencia
+MIT License - Uso comercial permitido
+
+---
+*Desarrollado por Ignacio Barberis | Especialista en automatización Python*
+*¿Necesitas un bot personalizado? ¡Contáctame para un presupuesto gratuito!*
